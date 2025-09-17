@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+telegram_bot/detected_faces/
+telegram_bot/saved_images/
+telegram_bot/extracted_links7047027499/
+backend/face_check_images/
+backend/face_check_response/
+backend/face-images/
+backend/facecheck.log
+facecheck-service/query_face_images/
+backend/profile_pictures/
+Face_verification_service/face_check_images/
+Face_verification_service/profile_pictures/
+telegram_bot_v2_with_face_detection/detected_faces/
+telegram_bot_with_DB/saved_images/
+telegram_bot_with_DB/detected_faces/

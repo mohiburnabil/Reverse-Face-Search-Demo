@@ -1,0 +1,327 @@
+2025-05-27 23:24:09,753 - INFO - YOLO model loaded on cuda
+2025-05-27 23:24:09,945 - INFO - YOLO model loaded on cuda
+2025-05-27 23:24:09,957 - INFO - YOLO model loaded on cuda
+2025-05-27 23:24:10,414 - INFO - YOLO model loaded on cuda
+2025-05-27 23:24:11,259 - INFO - YOLO model loaded on cuda
+2025-05-27 23:24:23,812 - INFO - Detecting faces...
+2025-05-27 23:24:25,011 - INFO - Inference done. Total predictions: 5
+2025-05-27 23:24:25,173 - INFO - Detected 5 faces
+2025-05-27 23:25:13,451 - INFO - Detecting faces...
+2025-05-27 23:25:13,560 - INFO - Inference done. Total predictions: 5
+2025-05-27 23:25:13,712 - INFO - Detected 5 faces
+2025-05-27 23:25:19,090 - INFO - Detecting faces...
+2025-05-27 23:25:20,242 - INFO - Inference done. Total predictions: 5
+2025-05-27 23:25:20,392 - INFO - Detected 5 faces
+2025-05-27 23:25:52,879 - INFO - Detecting faces...
+2025-05-27 23:25:52,988 - INFO - Inference done. Total predictions: 5
+2025-05-27 23:25:53,138 - INFO - Detected 5 faces
+2025-05-27 23:26:00,157 - INFO - Detecting faces...
+2025-05-27 23:26:00,254 - INFO - Inference done. Total predictions: 5
+2025-05-27 23:26:00,402 - INFO - Detected 5 faces
+2025-05-27 23:26:09,303 - INFO - Detecting faces...
+2025-05-27 23:26:09,399 - INFO - Inference done. Total predictions: 5
+2025-05-27 23:26:09,546 - INFO - Detected 5 faces
+2025-05-28 01:37:27,762 - INFO - YOLO model loaded on cuda
+2025-05-28 01:37:27,764 - INFO - YOLO model loaded on cuda
+2025-05-28 01:37:28,173 - INFO - YOLO model loaded on cuda
+2025-05-28 01:37:28,225 - INFO - YOLO model loaded on cuda
+2025-05-28 01:37:28,226 - INFO - YOLO model loaded on cuda
+2025-06-21 17:13:35,407 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-06-21 17:13:35,420 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-06-21 17:13:35,427 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-06-21 17:13:35,484 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-06-21 17:13:43,500 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-06-21 17:13:44,017 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-06-21 17:13:44,091 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-06-21 17:13:44,148 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-06-21 17:13:55,946 - INFO - YOLO model loaded on cuda
+2025-06-21 17:13:56,389 - INFO - YOLO model loaded on cuda
+2025-06-21 17:13:56,417 - INFO - YOLO model loaded on cuda
+2025-06-21 17:13:56,437 - INFO - YOLO model loaded on cuda
+2025-06-21 17:15:12,785 - INFO - Detecting faces...
+2025-06-21 17:15:14,338 - INFO - Inference done. Total predictions: 5
+2025-06-21 17:15:14,514 - ERROR - Face detection error: cannot access local variable 'sharpened_face' where it is not associated with a value
+Traceback (most recent call last):
+  File "/workspace/Reverse-Face-Search/face_detection_module/app/helpers.py", line 96, in face_detection
+    width, height = sharpened_face.size  # Get the image dimensions
+                    ^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sharpened_face' where it is not associated with a value
+2025-06-21 17:15:14,518 - INFO - Detected 0 faces
+2025-06-21 17:15:40,946 - INFO - YOLO model loaded on cuda
+2025-06-21 17:15:41,283 - INFO - YOLO model loaded on cuda
+2025-06-21 17:15:41,297 - INFO - YOLO model loaded on cuda
+2025-06-21 17:15:41,312 - INFO - YOLO model loaded on cuda
+2025-06-21 17:15:57,363 - INFO - Detecting faces...
+2025-06-21 17:15:58,685 - INFO - Inference done. Total predictions: 5
+2025-06-21 17:15:58,856 - INFO - Upscaling image due to small dimensions: 794x968
+2025-06-21 17:16:03,375 - INFO - Upscaling image due to small dimensions: 357x449
+2025-06-21 17:16:06,300 - INFO - Upscaling image due to small dimensions: 484x623
+2025-06-21 17:16:08,953 - INFO - Upscaling image due to small dimensions: 371x500
+2025-06-21 17:16:11,532 - INFO - Upscaling image due to small dimensions: 463x645
+2025-06-21 17:16:14,127 - INFO - Detected 5 faces
+2025-06-21 17:22:54,524 - INFO - Detecting faces...
+2025-06-21 17:22:55,818 - INFO - Inference done. Total predictions: 5
+2025-06-21 17:22:55,993 - INFO - Upscaling image due to small dimensions: 794x968
+2025-06-21 17:23:00,579 - INFO - Upscaling image due to small dimensions: 357x449
+2025-06-21 17:23:03,504 - INFO - Upscaling image due to small dimensions: 484x623
+2025-06-21 17:23:06,457 - INFO - Upscaling image due to small dimensions: 371x500
+2025-06-21 17:23:08,740 - INFO - Upscaling image due to small dimensions: 463x645
+2025-06-21 17:23:11,275 - INFO - Detected 5 faces
+2025-06-21 17:53:12,033 - INFO - Detecting faces...
+2025-06-21 17:53:12,132 - INFO - Inference done. Total predictions: 5
+2025-06-21 17:53:12,303 - INFO - Upscaling image due to small dimensions: 794x966
+2025-06-21 17:53:17,114 - INFO - Upscaling image due to small dimensions: 357x450
+2025-06-21 17:53:20,076 - INFO - Upscaling image due to small dimensions: 484x623
+2025-06-21 17:53:23,239 - INFO - Upscaling image due to small dimensions: 372x499
+2025-06-21 17:53:26,309 - INFO - Upscaling image due to small dimensions: 464x645
+2025-06-21 17:53:29,357 - INFO - Detected 5 faces
+2025-06-21 17:56:58,909 - INFO - Detecting faces...
+2025-06-21 17:56:59,037 - INFO - Inference done. Total predictions: 5
+2025-06-21 17:56:59,210 - INFO - Upscaling image due to small dimensions: 794x966
+2025-06-21 17:57:02,986 - INFO - Upscaling image due to small dimensions: 357x450
+2025-06-21 17:57:05,283 - INFO - Upscaling image due to small dimensions: 484x623
+2025-06-21 17:57:08,087 - INFO - Upscaling image due to small dimensions: 372x499
+2025-06-21 17:57:10,441 - INFO - Upscaling image due to small dimensions: 464x645
+2025-06-21 17:57:13,097 - INFO - Detected 5 faces
+2025-06-21 18:02:12,772 - INFO - Detecting faces...
+2025-06-21 18:02:12,878 - INFO - Inference done. Total predictions: 5
+2025-06-21 18:02:13,053 - INFO - Upscaling image due to small dimensions: 794x966
+2025-06-21 18:02:17,675 - INFO - Upscaling image due to small dimensions: 357x450
+2025-06-21 18:02:20,883 - INFO - Upscaling image due to small dimensions: 484x623
+2025-06-21 18:02:24,089 - INFO - Upscaling image due to small dimensions: 372x499
+2025-06-21 18:02:26,653 - INFO - Upscaling image due to small dimensions: 464x645
+2025-06-21 18:02:29,407 - INFO - Detected 5 faces
+2025-06-21 18:03:28,928 - INFO - Detecting faces...
+2025-06-21 18:03:29,062 - INFO - Inference done. Total predictions: 5
+2025-06-21 18:03:29,232 - INFO - Upscaling image due to small dimensions: 794x966
+2025-06-21 18:03:33,794 - INFO - Upscaling image due to small dimensions: 357x450
+2025-06-21 18:03:36,486 - INFO - Upscaling image due to small dimensions: 484x623
+2025-06-21 18:03:39,648 - INFO - Upscaling image due to small dimensions: 372x499
+2025-06-21 18:03:42,288 - INFO - Upscaling image due to small dimensions: 464x645
+2025-06-21 18:03:45,045 - INFO - Detected 5 faces
+2025-06-21 18:05:32,098 - INFO - Detecting faces...
+2025-06-21 18:05:32,303 - INFO - Inference done. Total predictions: 1
+2025-06-21 18:05:32,332 - INFO - Upscaling image due to small dimensions: 464x609
+2025-06-21 18:05:35,271 - INFO - Detected 1 faces
+2025-06-21 18:18:25,736 - INFO - Detecting faces...
+2025-06-21 18:18:25,858 - INFO - Inference done. Total predictions: 5
+2025-06-21 18:18:26,029 - INFO - Upscaling image due to small dimensions: 794x966
+2025-06-21 18:18:30,478 - INFO - Upscaling image due to small dimensions: 357x450
+2025-06-21 18:18:33,673 - INFO - Upscaling image due to small dimensions: 484x623
+2025-06-21 18:18:36,757 - INFO - Upscaling image due to small dimensions: 372x499
+2025-06-21 18:18:39,729 - INFO - Upscaling image due to small dimensions: 464x645
+2025-06-21 18:18:42,845 - INFO - Detected 5 faces
+2025-06-21 18:20:03,068 - INFO - Detecting faces...
+2025-06-21 18:20:03,093 - INFO - Inference done. Total predictions: 4
+2025-06-21 18:20:03,159 - INFO - Upscaling image due to small dimensions: 280x360
+2025-06-21 18:20:06,274 - INFO - Upscaling image due to small dimensions: 220x320
+2025-06-21 18:20:09,376 - INFO - Upscaling image due to small dimensions: 223x339
+2025-06-21 18:20:12,413 - INFO - Detected 3 faces
+2025-06-21 18:30:12,992 - INFO - Detecting faces...
+2025-06-21 18:30:13,109 - INFO - Inference done. Total predictions: 5
+2025-06-21 18:30:13,280 - INFO - Upscaling image due to small dimensions: 794x968
+2025-06-21 18:30:17,399 - INFO - Upscaling image due to small dimensions: 357x449
+2025-06-21 18:30:20,502 - INFO - Upscaling image due to small dimensions: 484x623
+2025-06-21 18:30:23,697 - INFO - Upscaling image due to small dimensions: 371x500
+2025-06-21 18:30:26,667 - INFO - Upscaling image due to small dimensions: 463x645
+2025-06-21 18:30:29,995 - INFO - Detected 5 faces
+2025-06-21 18:38:13,273 - INFO - YOLO model loaded on cuda
+2025-06-21 18:38:13,389 - INFO - YOLO model loaded on cuda
+2025-06-21 18:38:13,400 - INFO - YOLO model loaded on cuda
+2025-06-21 18:38:13,443 - INFO - YOLO model loaded on cuda
+2025-06-21 18:38:27,694 - INFO - Detecting faces...
+2025-06-21 18:38:28,940 - INFO - Inference done. Total predictions: 4
+2025-06-21 18:38:28,998 - INFO - Upscaling image due to small dimensions: 280x360
+2025-06-21 18:38:31,703 - INFO - Upscaling image due to small dimensions: 220x320
+2025-06-21 18:38:34,701 - INFO - Upscaling image due to small dimensions: 223x339
+2025-06-21 18:38:37,402 - INFO - Detected 3 faces
+2025-06-21 19:03:06,518 - INFO - Detecting faces...
+2025-06-21 19:03:07,721 - INFO - Inference done. Total predictions: 1
+2025-06-21 19:03:07,739 - INFO - Upscaling image due to small dimensions: 219x212
+2025-06-21 19:03:10,636 - INFO - Detected 1 faces
+2025-06-21 19:37:29,521 - INFO - Detecting faces...
+2025-06-21 19:37:29,551 - INFO - Inference done. Total predictions: 4
+2025-06-21 19:37:29,632 - INFO - Upscaling image due to small dimensions: 280x360
+2025-06-21 19:37:32,846 - INFO - Upscaling image due to small dimensions: 220x320
+2025-06-21 19:37:35,785 - INFO - Upscaling image due to small dimensions: 223x339
+2025-06-21 19:37:38,583 - INFO - Detected 3 faces
+2025-06-23 10:26:20,406 - INFO - Detecting faces...
+2025-06-23 10:26:20,546 - INFO - Inference done. Total predictions: 1
+2025-06-23 10:26:20,568 - INFO - Upscaling image due to small dimensions: 144x181
+2025-06-23 10:26:23,475 - INFO - Detected 1 faces
+2025-06-23 18:44:37,493 - INFO - Detecting faces...
+2025-06-23 18:44:37,748 - INFO - Inference done. Total predictions: 1
+2025-06-23 18:44:37,884 - ERROR - Face detection error: cannot access local variable 'sharpened_face' where it is not associated with a value
+Traceback (most recent call last):
+  File "/workspace/Reverse-Face-Search/face_detection_module/app/helpers.py", line 101, in face_detection
+    face_images.append(sharpened_face)
+                       ^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sharpened_face' where it is not associated with a value
+2025-06-23 18:44:37,889 - INFO - Detected 0 faces
+2025-06-23 18:44:50,370 - INFO - Detecting faces...
+2025-06-23 18:44:50,667 - INFO - Inference done. Total predictions: 1
+2025-06-23 18:44:50,817 - ERROR - Face detection error: cannot access local variable 'sharpened_face' where it is not associated with a value
+Traceback (most recent call last):
+  File "/workspace/Reverse-Face-Search/face_detection_module/app/helpers.py", line 101, in face_detection
+    face_images.append(sharpened_face)
+                       ^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sharpened_face' where it is not associated with a value
+2025-06-23 18:44:50,824 - INFO - Detected 0 faces
+2025-06-25 06:08:53,270 - INFO - Detecting faces...
+2025-06-25 06:08:53,315 - INFO - Inference done. Total predictions: 1
+2025-06-25 06:08:53,371 - INFO - Upscaling image due to small dimensions: 219x212
+2025-06-25 06:08:57,676 - INFO - Detected 1 faces
+2025-06-25 06:11:16,436 - INFO - Detecting faces...
+2025-06-25 06:11:16,465 - INFO - Inference done. Total predictions: 1
+2025-06-25 06:11:16,524 - INFO - Upscaling image due to small dimensions: 219x212
+2025-06-25 06:11:19,764 - INFO - Detected 1 faces
+2025-06-25 06:14:21,978 - INFO - Detecting faces...
+2025-06-25 06:14:23,165 - INFO - Inference done. Total predictions: 1
+2025-06-25 06:14:23,179 - INFO - Upscaling image due to small dimensions: 219x212
+2025-06-25 06:14:25,501 - INFO - Detected 1 faces
+2025-06-25 06:17:17,898 - INFO - Detecting faces...
+2025-06-25 06:17:17,938 - INFO - Inference done. Total predictions: 1
+2025-06-25 06:17:17,990 - INFO - Upscaling image due to small dimensions: 219x212
+2025-06-25 06:17:20,983 - INFO - Detected 1 faces
+2025-06-25 06:18:09,490 - INFO - Detecting faces...
+2025-06-25 06:18:09,548 - INFO - Inference done. Total predictions: 4
+2025-06-25 06:18:09,654 - INFO - Upscaling image due to small dimensions: 280x360
+2025-06-25 06:18:12,768 - INFO - Upscaling image due to small dimensions: 220x320
+2025-06-25 06:18:15,492 - INFO - Upscaling image due to small dimensions: 223x339
+2025-06-25 06:18:17,883 - INFO - Detected 3 faces
+2025-06-26 14:50:56,094 - INFO - Detecting faces...
+2025-06-26 14:50:56,258 - INFO - Inference done. Total predictions: 2
+2025-06-26 14:50:56,340 - ERROR - Face detection error: cannot access local variable 'sharpened_face' where it is not associated with a value
+Traceback (most recent call last):
+  File "/workspace/Reverse-Face-Search/face_detection_module/app/helpers.py", line 101, in face_detection
+    face_images.append(sharpened_face)
+                       ^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sharpened_face' where it is not associated with a value
+2025-06-26 14:50:56,342 - INFO - Detected 0 faces
+2025-06-26 18:03:36,950 - INFO - Detecting faces...
+2025-06-26 18:03:37,009 - INFO - Inference done. Total predictions: 4
+2025-06-26 18:03:37,113 - INFO - Upscaling image due to small dimensions: 280x360
+2025-06-26 18:03:41,134 - INFO - Upscaling image due to small dimensions: 220x320
+2025-06-26 18:03:43,413 - INFO - Upscaling image due to small dimensions: 223x339
+2025-06-26 18:03:45,609 - INFO - Detected 3 faces
+2025-06-26 18:05:40,485 - INFO - Detecting faces...
+2025-06-26 18:05:41,817 - INFO - Inference done. Total predictions: 2
+2025-06-26 18:05:41,907 - ERROR - Face detection error: cannot access local variable 'sharpened_face' where it is not associated with a value
+Traceback (most recent call last):
+  File "/workspace/Reverse-Face-Search/face_detection_module/app/helpers.py", line 101, in face_detection
+    face_images.append(sharpened_face)
+                       ^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sharpened_face' where it is not associated with a value
+2025-06-26 18:05:41,912 - INFO - Detected 0 faces
+2025-06-27 08:29:36,582 - INFO - Detecting faces...
+2025-06-27 08:29:36,770 - INFO - Inference done. Total predictions: 1
+2025-06-27 08:29:36,797 - INFO - Upscaling image due to small dimensions: 464x609
+2025-06-27 08:29:40,545 - INFO - Detected 1 faces
+2025-06-27 08:38:07,263 - INFO - YOLO model loaded on cuda
+2025-06-27 08:38:07,283 - INFO - YOLO model loaded on cuda
+2025-06-27 08:38:07,327 - INFO - YOLO model loaded on cuda
+2025-06-27 08:38:07,345 - INFO - YOLO model loaded on cuda
+2025-06-27 08:38:22,876 - INFO - Detecting faces...
+2025-06-27 08:38:24,225 - INFO - Inference done. Total predictions: 1
+2025-06-27 08:38:24,255 - INFO - Upscaling image due to small dimensions: 464x609
+2025-06-27 08:38:28,150 - INFO - Detected 1 faces
+2025-06-27 08:40:31,209 - INFO - Detecting faces...
+2025-06-27 08:40:31,439 - INFO - Inference done. Total predictions: 1
+2025-06-27 08:40:31,542 - INFO - Detected 1 faces
+2025-06-27 08:41:48,635 - INFO - YOLO model loaded on cuda
+2025-06-27 08:41:48,851 - INFO - YOLO model loaded on cuda
+2025-06-27 08:41:48,925 - INFO - YOLO model loaded on cuda
+2025-06-27 08:41:49,105 - INFO - YOLO model loaded on cuda
+2025-06-27 08:41:52,539 - INFO - Detecting faces...
+2025-06-27 08:41:53,952 - INFO - Inference done. Total predictions: 1
+2025-06-27 08:41:54,059 - ERROR - Face detection error: cannot access local variable 'sharpened_face' where it is not associated with a value
+Traceback (most recent call last):
+  File "/workspace/Reverse-Face-Search/face_detection_module/app/helpers.py", line 101, in face_detection
+    face_images.append(sharpened_face)
+                       ^^^^^^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sharpened_face' where it is not associated with a value
+2025-06-27 08:41:54,062 - INFO - Detected 0 faces
+2025-06-27 08:42:28,004 - INFO - YOLO model loaded on cuda
+2025-06-27 08:42:28,525 - INFO - Detecting faces...
+2025-06-27 08:42:28,789 - INFO - YOLO model loaded on cuda
+2025-06-27 08:42:28,805 - INFO - YOLO model loaded on cuda
+2025-06-27 08:42:28,807 - INFO - YOLO model loaded on cuda
+2025-06-27 08:42:29,938 - INFO - Inference done. Total predictions: 1
+2025-06-27 08:42:30,052 - INFO - Detected 1 faces
+2025-06-27 22:35:03,076 - INFO - Detecting faces...
+2025-06-27 22:35:03,250 - INFO - Inference done. Total predictions: 3
+2025-06-27 22:35:03,329 - INFO - Upscaling image due to small dimensions: 565x687
+2025-06-27 22:35:08,101 - INFO - Upscaling image due to small dimensions: 918x980
+2025-06-27 22:35:11,969 - INFO - Upscaling image due to small dimensions: 365x458
+2025-06-27 22:35:14,828 - INFO - Detected 3 faces
+2025-07-08 09:10:02,920 - INFO - Detecting faces...
+2025-07-08 09:10:04,581 - INFO - Inference done. Total predictions: 3
+2025-07-08 09:10:04,656 - INFO - Upscaling image due to small dimensions: 402x546
+2025-07-08 09:10:08,807 - INFO - Upscaling image due to small dimensions: 242x311
+2025-07-08 09:10:11,735 - INFO - Upscaling image due to small dimensions: 212x242
+2025-07-08 09:10:14,799 - INFO - Detected 3 faces
+2025-07-09 22:28:28,860 - INFO - Detecting faces...
+2025-07-09 22:28:30,106 - INFO - Inference done. Total predictions: 1
+2025-07-09 22:28:30,124 - INFO - Upscaling image due to small dimensions: 237x315
+2025-07-09 22:28:33,379 - INFO - Detected 1 faces
+2025-07-10 07:32:30,666 - INFO - Detecting faces...
+2025-07-10 07:32:30,869 - INFO - Inference done. Total predictions: 1
+2025-07-10 07:32:30,978 - INFO - Detected 1 faces
+2025-07-10 07:33:22,279 - INFO - Detecting faces...
+2025-07-10 07:33:22,444 - INFO - Inference done. Total predictions: 1
+2025-07-10 07:33:22,533 - INFO - Detected 1 faces
+2025-07-11 20:33:38,785 - INFO - Detecting faces...
+2025-07-11 20:33:40,262 - INFO - Inference done. Total predictions: 1
+2025-07-11 20:33:40,366 - INFO - Detected 1 faces
+2025-07-14 15:44:28,997 - INFO - YOLO model loaded on cuda
+2025-07-14 15:44:29,088 - INFO - YOLO model loaded on cuda
+2025-07-14 15:44:29,130 - INFO - YOLO model loaded on cuda
+2025-07-14 15:44:29,228 - INFO - YOLO model loaded on cuda
+2025-07-14 15:45:22,032 - INFO - YOLO model loaded on cuda
+2025-07-14 15:45:22,121 - INFO - YOLO model loaded on cuda
+2025-07-14 15:45:22,156 - INFO - YOLO model loaded on cuda
+2025-07-14 15:45:22,366 - INFO - YOLO model loaded on cuda
+2025-07-14 15:45:43,802 - INFO - Detecting faces...
+2025-07-14 15:45:45,100 - INFO - Inference done. Total predictions: 1
+2025-07-14 15:45:45,132 - INFO - Upscaling image due to small dimensions: 464x609
+2025-07-14 15:45:46,222 - INFO - Detected 1 faces
+2025-07-14 15:48:34,038 - INFO - Detecting faces...
+2025-07-14 15:48:35,380 - INFO - Inference done. Total predictions: 5
+2025-07-14 15:48:35,555 - INFO - Upscaling image due to small dimensions: 794x966
+2025-07-14 15:48:38,126 - INFO - Upscaling image due to small dimensions: 357x450
+2025-07-14 15:48:38,857 - INFO - Upscaling image due to small dimensions: 484x623
+2025-07-14 15:48:39,852 - INFO - Upscaling image due to small dimensions: 372x499
+2025-07-14 15:48:40,625 - INFO - Upscaling image due to small dimensions: 464x645
+2025-07-14 15:48:43,028 - INFO - Detected 5 faces
